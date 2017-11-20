@@ -1,0 +1,29 @@
+[
+
+//Test Data for Getting ProductDetails ,their respective columns
+    {
+        "productPurchaseSlno": 101,
+        "productNetPrice": 467,
+        "productEntDate": "2017-11-15",
+        "productUpdDate": "2017-11-15",
+        "productSku": "060268",
+        "productDesc": "Circular sawblade new"
+    },
+    {
+        "productPurchaseSlno": 102,
+        "productNetPrice": 5670,
+        "productEntDate": "2017-11-15",
+        "productUpdDate": "2017-11-15",
+        "productSku": "072641",
+        "productDesc": "Radius Cutter"
+    },
+    {
+        "productPurchaseSlno": 102,
+        "productNetPrice": 5670,
+        "productEntDate": "2017-11-15",
+        "productUpdDate": "2017-11-15",
+        "productSku": "072641",
+        "productDesc": "Radius Cutter new version"
+    }
+]
+
